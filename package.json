@@ -1,0 +1,13 @@
+{
+    "name": "exemplo-swagger-autogen",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+      "start": "node ./src/swagger.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1",
+      "swagger-autogen": "^2.23.4",
+      "swagger-ui-express": "^4.1.4"
+    }
+  }
